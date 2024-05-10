@@ -1,6 +1,6 @@
 # Dominic Minnich | 2024
 
-# Just messing around with the camera an dot matrix displays in python.
+# Just messing around with the camera and dot matrix displays in Python.
 
 
 # Camera program that uses the webcam to create a retro camera effect.
@@ -12,13 +12,12 @@
 ![screenshot_20240401135255](https://github.com/DomMinnich/CameraDotMatrix/assets/113619219/cca61357-3c97-4fd9-b3b3-82885d268d1a)
 
 
-
-# Import libraries
-# Set variables
-# Default settings
-# Render visuals
-# Functions for adjusting settings
-# Handle keyboard events
-# Save screenshot
-# Render control panel
-# Main loop
+ Import libraries
+ Set variables
+ Default settings
+ Render visuals
+ Functions for adjusting settings
+ Handle keyboard events
+ Save screenshot
+ Render control panel
+ Main loop
